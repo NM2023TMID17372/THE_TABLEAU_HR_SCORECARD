@@ -5,4 +5,4 @@ Dashboard public link-https://public.tableau.com/views/SCORECARDMEASURINGSUCCESS
 Story public link- https://public.tableau.com/app/profile/keerthana.shree.k/viz/STORYOFSCORECARDMEASURINGSUCCESSINTALENTMANAGEMENT/Story1?publish=yes
 
 
-Video link-
+Video link-https://drive.google.com/file/d/1TU_bFKY8DZSIlbTqCsQXBRbgy1JJkzLt/view?usp=sharing
